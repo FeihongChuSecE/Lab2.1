@@ -1,0 +1,33 @@
+body {
+    font-family: 'segoe UI';
+    background-color: lightpink;
+    color: blueviolet;
+    margin-left: 10;
+    margin-right: 10;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: aquamarine;
+    padding: 20px;
+    font-size: larger;
+}
+
+footer {
+    background-color: yellow;
+    color: azure;
+    position: absolute;
+    bottom: 0;
+}
+
+nav {
+    color: brown;
+    inline-size: 0cm;
+}
+
+main {
+    background-color: yellowgreen;
+    margin: 5px;
+    padding: 10ch;
+}
